@@ -21,8 +21,8 @@ Collegeshala is a comprehensive platform that centralizes information about coll
 - JavaScript
 - [Font Awesome](https://fontawesome.com) for icons
 
-auv.jpg
+
 ## Live demo
 https://sahilshamim.github.io/Collegeshala/
 
-cd collegeshala
+
