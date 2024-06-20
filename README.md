@@ -7,7 +7,7 @@ Collegeshala is a comprehensive platform that centralizes information about coll
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
 - [live_demo](#live_demo)
-- [contact details](#contact details)
+- [Contact](#Contact)
 
 
 ## Features
@@ -26,8 +26,11 @@ Collegeshala is a comprehensive platform that centralizes information about coll
 ## Live demo
 https://sahilshamim.github.io/Collegeshala/
 
-## contact details
-sahil.shamim27@gmail.com
-https://www.linkedin.com/in/sahil-shamim/
+## Contact
+
+- **Email**: [sahil.shamim27@gmail.com](mailto:sahil.shamim27@gmail.com)
+- **LinkedIn**: [Sahil Shamim](https://www.linkedin.com/in/sahil-shamim/)
+
+Feel free to reach out if you have any questions or opportunities you'd like to discuss.
 
 
